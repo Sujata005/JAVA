@@ -9,3 +9,6 @@
 ### P3_Task_01_ClaculatorInJava.java
 ![image](https://user-images.githubusercontent.com/112793420/230125552-6ef3cad2-7c7b-4db9-973b-07875e797930.png)
 
+### P4_Task_01_GenericMatricMultiplication
+![image](https://user-images.githubusercontent.com/112793420/230419282-9faf9266-df80-4d81-ae16-867cdc29e114.png)
+![image](https://user-images.githubusercontent.com/112793420/230420376-9ee00e30-6a17-4f77-acb4-85b524d14285.png)

@@ -1,6 +1,6 @@
 package Unit01;
 
-public class P5_Task02_ArrayInJava {
+public class P5_Task_02_ArrayInJava {
 		public static void main(String[] args) {
 			int[] a=new int [] {1,2,3,4,7};
 			// Rotating

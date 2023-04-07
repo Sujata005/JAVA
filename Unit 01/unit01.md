@@ -22,3 +22,10 @@ P5_Task_01_ArrayInJava.java
 
 ![image](https://user-images.githubusercontent.com/112793420/230547625-96516a95-e3b0-4ade-ac44-b051f6d6083f.png)
 
+
+
+P5_Task_02_ArrayInJava.java
+
+![image](https://user-images.githubusercontent.com/112793420/230548852-a6334365-0af7-416d-8368-0d5aaf5c1dd2.png)
+
+

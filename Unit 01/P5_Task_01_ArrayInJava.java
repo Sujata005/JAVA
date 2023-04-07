@@ -1,6 +1,6 @@
 package Unit01;
 
-public class P5_Task01_ArrayInJava {
+public class P5_Task_01_ArrayInJava {
 	public static void main(String[] args) {
 		Duplicates();
 	}

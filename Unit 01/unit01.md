@@ -12,3 +12,8 @@
 ### P4_Task_01_GenericMatricMultiplication
 ![image](https://user-images.githubusercontent.com/112793420/230419282-9faf9266-df80-4d81-ae16-867cdc29e114.png)
 ![image](https://user-images.githubusercontent.com/112793420/230420376-9ee00e30-6a17-4f77-acb4-85b524d14285.png)
+
+
+P5_Task_01_ArrayInJava.java
+![image](https://user-images.githubusercontent.com/112793420/230547625-96516a95-e3b0-4ade-ac44-b051f6d6083f.png)
+

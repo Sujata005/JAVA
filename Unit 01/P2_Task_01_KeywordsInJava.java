@@ -1,6 +1,6 @@
 package Unit01;
 
-public class P2_Task01_KeywordsInJava {
+public class P2_Task_01_KeywordsInJava {
 	public static void main(String[] args) {
 		//	    int double=90;  //Error can't assign variable name as a keyword
 		//Syntax error on token "double", invalid VariableDeclaratorId

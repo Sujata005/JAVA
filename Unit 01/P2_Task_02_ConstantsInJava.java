@@ -9,6 +9,6 @@ public class P2_Task_02_ConstantsInJava {
 		System.out.println(PRICE);
 		System.out.println(PRICE2);
 		System.out.println(a);
-//	    PRICE=67.90;	constants cannot be reassigned
+//	    	PRICE=67.90;		constants cannot be reassigned
 	}
 }
